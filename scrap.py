@@ -80,6 +80,6 @@ def run():
 
 
 if __name__ == "__main__":
-    # scraping all oferts from
+    # scraping all oferts takes a lot of time
     # run()
     print()
